@@ -1,0 +1,25 @@
+{
+  "name": "massdrop-home-assignment",
+  "version": "1.0.0",
+  "description": "take home assignment for massdrop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "massdrop",
+    "webpack",
+    "express",
+    "node"
+  ],
+  "author": "AvinashSharma (savinash47@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fetch": "^1.1.0",
+    "kue": "^0.11.1",
+    "mongoose": "^4.5.4",
+    "request": "^2.73.0"
+  }
+}
