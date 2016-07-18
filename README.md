@@ -1,4 +1,4 @@
-##massdrop-home-assginment
+##massdrop-home-assignment
 
 ##Details
 
